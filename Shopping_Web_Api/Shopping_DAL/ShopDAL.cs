@@ -7,6 +7,7 @@ namespace Shopping_DAL
         public void Show()
         {
             var i = "测试数据";
+            var row = "Test2";
         }
     }
 }
