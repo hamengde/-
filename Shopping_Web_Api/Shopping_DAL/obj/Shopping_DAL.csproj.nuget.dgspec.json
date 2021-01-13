@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj": {}
+    "F:\\电商\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj": {
+    "F:\\电商\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
+        "projectUniqueName": "F:\\电商\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
         "projectName": "Shopping_DAL",
-        "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
-        "packagesPath": "C:\\Users\\lenovo-3c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\obj\\",
+        "projectPath": "F:\\电商\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
+        "packagesPath": "C:\\Users\\24679\\.nuget\\packages\\",
+        "outputPath": "F:\\电商\\Shopping_Web_Api\\Shopping_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lenovo-3c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\24679\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
-                "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj"
+              "F:\\电商\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
+                "projectPath": "F:\\电商\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj"
               }
             }
           }
@@ -85,25 +85,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
+    "F:\\电商\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj",
+        "projectUniqueName": "F:\\电商\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj",
         "projectName": "Shopping_Model",
-        "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj",
-        "packagesPath": "C:\\Users\\lenovo-3c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\obj\\",
+        "projectPath": "F:\\电商\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj",
+        "packagesPath": "C:\\Users\\24679\\.nuget\\packages\\",
+        "outputPath": "F:\\电商\\Shopping_Web_Api\\Shopping_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lenovo-3c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\24679\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -150,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
