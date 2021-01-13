@@ -1011,11 +1011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
       "projectName": "Shopping_DAL",
-      "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
+      "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj",
       "packagesPath": "C:\\Users\\lenovo-3c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_DAL\\obj\\",
+      "outputPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1037,8 +1037,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
-              "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj"
+            "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
+              "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj"
             }
           }
         }

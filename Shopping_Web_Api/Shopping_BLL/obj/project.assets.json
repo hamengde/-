@@ -1031,11 +1031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_BLL\\Shopping_BLL.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_BLL\\Shopping_BLL.csproj",
       "projectName": "Shopping_BLL",
-      "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_BLL\\Shopping_BLL.csproj",
+      "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_BLL\\Shopping_BLL.csproj",
       "packagesPath": "C:\\Users\\lenovo-3c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_BLL\\obj\\",
+      "outputPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1057,11 +1057,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj": {
-              "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj"
+            "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj": {
+              "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_DAL\\Shopping_DAL.csproj"
             },
-            "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
-              "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj"
+            "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj": {
+              "projectPath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Model\\Shopping_Model.csproj"
             }
           }
         }

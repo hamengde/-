@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0K9f/xMFb+ot3heJJn7+446YLYggfEiCgcsw+i4l/ASDQrVwZ7wimVaR5hy0XVNDmvuaaQJIP7SzauTXs6+Cg==",
+  "dgSpecHash": "dDwbEDjcrqIleXfyPTg17TDOE+OUYbm6fKls06TWyPKjy2d4Kmke/IhQamIPEP9t3cKx/0IffoKcx9HECZ4/HQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo-3c\\Desktop\\API\\Shopping_Web_Api\\Shopping_Web_Api\\Shopping_Web_Api.csproj",
+  "projectFilePath": "C:\\Users\\lenovo-3c\\Desktop\\电商web前段\\Shopping_Web_Api\\Shopping_Web_Api\\Shopping_Web_Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo-3c\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\lenovo-3c\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
